@@ -69,7 +69,6 @@ hangman-game/
 │       ├── state9.gif
 │       ├── state10.gif
 │       └── state11.gif
-│
 └── src/
     ├── App.js
     ├── App.css
@@ -81,7 +80,6 @@ hangman-game/
     ├── setupTests.js
     ├── words.js
     ├── hangman.css
-    │
     └── components/
         ├── GameBoard.jsx
         ├── GameStatus.jsx
