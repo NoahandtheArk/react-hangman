@@ -47,25 +47,49 @@ The app will open at **http://localhost:3000**
 
 ## 📁 Project Structure
 
-    hangman-game/
+hangman-game/
+│
+├── README.md
+├── package.json
+├── package-lock.json
+├── node_modules/
+│
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── hangman/
+│       ├── state1.gif
+│       ├── state2.gif
+│       ├── state3.gif
+│       ├── state4.gif
+│       ├── state5.gif
+│       ├── state6.gif
+│       ├── state7.gif
+│       ├── state8.gif
+│       ├── state9.gif
+│       ├── state10.gif
+│       └── state11.gif
+│
+└── src/
+    ├── App.js
+    ├── App.css
+    ├── App.test.js
+    ├── index.js
+    ├── index.css
+    ├── logo.svg
+    ├── reportWebVitals.js
+    ├── setupTests.js
+    ├── words.js
+    ├── hangman.css
     │
-    ├── public/
-    │   └── hangman/ (GIF stages)
-    │
-    ├── src/
-    │   ├── components/
-    │   │   ├── GameBoard.jsx
-    │   │   ├── Keyboard.jsx
-    │   │   ├── HangmanFigure.jsx
-    │   │   ├── WordDisplay.jsx
-    │   │   ├── GameStatus.jsx
-    │   │   └── HelpModal.jsx
-    │   │
-    │   ├── words.js
-    │   └── hangman.css
-    │
-    ├── package.json
-    └── README.md
+    └── components/
+        ├── GameBoard.jsx
+        ├── GameStatus.jsx
+        ├── HangmanFigure.jsx
+        ├── HelpModal.jsx
+        ├── Keyboard.jsx
+        └── WordDisplay.jsx
+
 
 ## 🚀 Deployment
 
