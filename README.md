@@ -5,6 +5,14 @@ on-screen keyboard, helpful gameplay messages, and **11 custom hangman
 illustration stages**. The goal is simple: guess the hidden word before
 the hangman is fully drawn!
 
+## Live Demo
+Check out the live app here: [Hangman Game](https://cryptic-ocean-92518-654cff12c7da.herokuapp.com/)
+
+## Features
+- Play Hangman online
+- Responsive design
+- Fun and interactive
+
 ![Hangman
 Screenshot](https://via.placeholder.com/600x400/f8f9fa/495057?text=React+Hangman+Preview)
 
